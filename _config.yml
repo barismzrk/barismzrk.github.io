@@ -1,0 +1,8 @@
+title: The 90+ Project
+lang: tr
+description: Sadece izleyen değil, düşünen için.
+theme: jekyll-theme-chirpy
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
